@@ -1,0 +1,14 @@
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/CMakeFiles/install.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/CMakeFiles/list_install_components.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/CMakeFiles/rebuild_cache.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/CMakeFiles/imglab.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/CMakeFiles/install/strip.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/CMakeFiles/install/local.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/CMakeFiles/edit_cache.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/dlib_build/CMakeFiles/install.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/dlib_build/CMakeFiles/list_install_components.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/dlib_build/CMakeFiles/install/local.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/dlib_build/CMakeFiles/install/strip.dir
+/home/anthony/Documents/Programming/git-clones/dlib/tools/imglab/build/dlib_build/CMakeFiles/edit_cache.dir

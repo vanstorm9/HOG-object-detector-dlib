@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/001.jpg'>
+    <box top='31' left='176' width='62' height='63'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/002.jpg'>
+    <box top='48' left='54' width='68' height='56'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/003.jpg'>
+    <box top='27' left='31' width='164' height='161'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/004.jpg'>
+    <box top='67' left='5' width='57' height='77'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/005.jpg'>
+    <box top='17' left='54' width='149' height='140'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/006.jpg'>
+    <box top='22' left='25' width='167' height='181'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/007.jpg'>
+    <box top='82' left='91' width='13' height='15'/>
+    <box top='77' left='201' width='16' height='15'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/008.jpg'>
+    <box top='0' left='69' width='122' height='115'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/009.jpg'>
+    <box top='8' left='47' width='72' height='68'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/010.jpg'>
+    <box top='40' left='156' width='38' height='31'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/011.jpg'>
+    <box top='28' left='222' width='30' height='31'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/012.jpg'>
+    <box top='93' left='83' width='37' height='50'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/014.jpg'>
+    <box top='81' left='11' width='178' height='159'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/015.jpg'>
+    <box top='13' left='138' width='74' height='70'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/016.jpg'>
+    <box top='-3' left='7' width='99' height='113'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/017.jpg'>
+    <box top='883' left='90' width='615' height='868'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/018.jpg'>
+    <box top='55' left='42' width='36' height='29'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/019.jpg'>
+    <box top='71' left='192' width='33' height='33'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/020.jpg'>
+    <box top='8' left='139' width='72' height='75'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/021.jpg'>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/022.jpg'>
+    <box top='24' left='191' width='44' height='47'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/024.jpg'>
+    <box top='53' left='10' width='22' height='21'/>
+    <box top='71' left='158' width='15' height='17'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/025.jpg'>
+    <box top='85' left='106' width='34' height='26'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/026.jpg'>
+    <box top='9' left='134' width='38' height='35'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/027.jpg'>
+    <box top='69' left='94' width='40' height='40'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/028.jpg'>
+    <box top='38' left='175' width='39' height='37'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/029.jpg'>
+    <box top='49' left='183' width='35' height='30'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/030.jpg'>
+    <box top='21' left='17' width='155' height='152'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/031.jpg'>
+    <box top='21' left='226' width='46' height='43'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/032.jpg'>
+    <box top='60' left='81' width='63' height='60'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/033.jpg'>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/034.jpg'>
+    <box top='31' left='104' width='58' height='57'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/035.jpg'>
+    <box top='82' left='4' width='21' height='23'/>
+    <box top='82' left='216' width='28' height='25'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/036.jpg'>
+    <box top='54' left='7' width='71' height='75'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/037.jpg'>
+    <box top='6' left='225' width='31' height='26'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/038.jpg'>
+    <box top='45' left='201' width='40' height='41'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/039.jpg'>
+    <box top='25' left='184' width='87' height='75'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/040.jpg'>
+    <box top='12' left='173' width='63' height='55'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/041.jpg'>
+    <box top='2' left='66' width='125' height='112'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/042.jpg'>
+    <box top='6' left='67' width='119' height='116'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/043.jpg'>
+    <box top='38' left='29' width='64' height='62'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/044.jpg'>
+    <box top='32' left='26' width='80' height='96'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/045.jpg'>
+    <box top='139' left='106' width='61' height='54'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/047.jpg'>
+    <box top='33' left='109' width='139' height='114'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/048.jpg'>
+    <box top='20' left='83' width='145' height='136'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/049.jpg'>
+    <box top='42' left='38' width='97' height='112'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/050.jpg'>
+    <box top='52' left='192' width='50' height='67'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/051.jpg'>
+    <box top='34' left='16' width='149' height='121'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/052.jpg'>
+    <box top='6' left='32' width='135' height='123'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/053.jpg'>
+    <box top='67' left='144' width='17' height='27'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/054.jpg'>
+    <box top='24' left='102' width='127' height='129'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/055.jpg'>
+    <box top='44' left='10' width='46' height='52'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/056.jpg'>
+    <box top='32' left='48' width='18' height='17'/>
+    <box top='38' left='128' width='15' height='20'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/057.jpg'>
+    <box top='123' left='78' width='57' height='76'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/058.jpg'>
+    <box top='16' left='103' width='26' height='27'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/059.jpg'>
+    <box top='61' left='45' width='57' height='45'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/060.jpg'>
+    <box top='14' left='103' width='62' height='59'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/061.jpg'>
+    <box top='22' left='75' width='121' height='109'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/062.jpg'>
+    <box top='42' left='115' width='93' height='91'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/063.jpg'>
+    <box top='19' left='112' width='128' height='121'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/064.jpg'>
+    <box top='125' left='46' width='135' height='147'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/065.jpg'>
+    <box top='101' left='52' width='91' height='157'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/066.jpg'>
+    <box top='32' left='104' width='142' height='113'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/067.jpg'>
+    <box top='18' left='63' width='103' height='95'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/068.jpg'>
+    <box top='122' left='67' width='53' height='86'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/069.jpg'>
+    <box top='15' left='68' width='97' height='86'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/070.jpg'>
+    <box top='120' left='18' width='162' height='152'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/071.jpg'>
+    <box top='88' left='21' width='154' height='158'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/072.jpg'>
+    <box top='94' left='7' width='167' height='160'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/073.jpg'>
+    <box top='53' left='43' width='32' height='33'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/075.jpg'>
+    <box top='74' left='66' width='70' height='89'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/076.jpg'>
+    <box top='29' left='92' width='86' height='95'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/077.jpg'>
+    <box top='65' left='200' width='38' height='30'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/078.jpg'>
+    <box top='7' left='61' width='62' height='66'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/079.jpg'>
+    <box top='23' left='54' width='80' height='84'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/080.jpg'>
+    <box top='1' left='27' width='145' height='138'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/081.jpg'>
+    <box top='41' left='117' width='40' height='39'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/082.jpg'>
+    <box top='8' left='75' width='93' height='84'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/083.jpg'>
+    <box top='5' left='6' width='29' height='34'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/084.jpg'>
+    <box top='21' left='92' width='73' height='76'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/085.jpg'>
+    <box top='58' left='110' width='54' height='63'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/086.jpg'>
+    <box top='18' left='243' width='22' height='26'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/087.jpg'>
+    <box top='32' left='62' width='52' height='49'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/088.jpg'>
+    <box top='5' left='143' width='125' height='148'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/089.jpg'>
+    <box top='25' left='61' width='67' height='71'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/090.jpg'>
+    <box top='20' left='128' width='72' height='64'/>
+    <box top='21' left='22' width='75' height='69'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/091.jpg'>
+    <box top='111' left='19' width='151' height='141'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/092.jpg'>
+    <box top='52' left='221' width='24' height='19'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/093.jpg'>
+    <box top='75' left='323' width='132' height='142'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/094.jpg'>
+    <box top='73' left='173' width='20' height='18'/>
+    <box top='72' left='44' width='20' height='17'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/095.jpg'>
+    <box top='-2' left='25' width='133' height='135'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/096.jpg'>
+    <box top='11' left='45' width='49' height='47'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/097.jpg'>
+    <box top='58' left='194' width='47' height='34'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/098.jpg'>
+    <box top='62' left='46' width='64' height='71'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/099.jpg'>
+    <box top='82' left='185' width='28' height='21'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/100.jpg'>
+    <box top='25' left='126' width='64' height='70'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/101.jpg'>
+    <box top='93' left='92' width='43' height='47'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/102.jpg'>
+    <box top='67' left='88' width='42' height='42'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/103.jpg'>
+    <box top='5' left='41' width='91' height='126'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/104.jpg'>
+    <box top='56' left='174' width='30' height='35'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/105.jpg'>
+    <box top='25' left='10' width='69' height='64'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/106.jpg'>
+    <box top='6' left='7' width='31' height='33'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/107.jpg'>
+    <box top='14' left='10' width='162' height='154'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00001.jpg'>
+    <box top='31' left='175' width='57' height='59'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00002.jpg'>
+    <box top='53' left='61' width='62' height='55'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00003.jpg'>
+    <box top='32' left='29' width='163' height='170'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00004.jpg'>
+    <box top='67' left='5' width='61' height='76'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00005.jpg'>
+    <box top='17' left='50' width='143' height='136'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00006.jpg'>
+    <box top='29' left='27' width='167' height='175'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00007.jpg'>
+    <box top='78' left='201' width='20' height='14'/>
+    <box top='81' left='88' width='20' height='15'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00008.jpg'>
+    <box top='5' left='68' width='110' height='114'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00009.jpg'>
+    <box top='12' left='49' width='68' height='65'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00010.jpg'>
+    <box top='38' left='154' width='37' height='35'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00011.jpg'>
+    <box top='31' left='226' width='27' height='28'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00012.jpg'>
+    <box top='94' left='88' width='32' height='47'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00014.jpg'>
+    <box top='75' left='19' width='162' height='172'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00015.jpg'>
+    <box top='10' left='142' width='65' height='77'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00016.jpg'>
+    <box top='0' left='7' width='102' height='106'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00017.jpg'>
+    <box top='875' left='95' width='624' height='873'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00018.jpg'>
+    <box top='54' left='44' width='31' height='31'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00019.jpg'>
+    <box top='75' left='195' width='24' height='33'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00020.jpg'>
+    <box top='12' left='138' width='70' height='66'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00021.jpg'>
+    <box top='24' left='121' width='75' height='67'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00022.jpg'>
+    <box top='24' left='192' width='45' height='45'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00023.jpg'>
+    <box top='53' left='172' width='32' height='31'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00024.jpg'>
+    <box top='55' left='10' width='21' height='18'/>
+    <box top='70' left='151' width='23' height='17'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00025.jpg'>
+    <box top='87' left='110' width='26' height='27'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00026.jpg'>
+    <box top='10' left='131' width='44' height='35'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00027.jpg'>
+    <box top='67' left='91' width='37' height='45'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00028.jpg'>
+    <box top='39' left='176' width='37' height='27'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00029.jpg'>
+    <box top='48' left='184' width='33' height='34'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00030.jpg'>
+    <box top='25' left='18' width='154' height='145'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00032.jpg'>
+    <box top='22' left='224' width='48' height='43'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00033.jpg'>
+    <box top='59' left='81' width='62' height='65'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00034.jpg'>
+    <box top='40' left='104' width='152' height='128'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00035.jpg'>
+    <box top='34' left='107' width='54' height='56'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00036.jpg'>
+    <box top='86' left='213' width='30' height='25'/>
+    <box top='78' left='3' width='21' height='24'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00037.jpg'>
+    <box top='53' left='2' width='72' height='84'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00038.jpg'>
+    <box top='3' left='221' width='33' height='30'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00039.jpg'>
+    <box top='47' left='200' width='37' height='32'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00040.jpg'>
+    <box top='24' left='193' width='77' height='82'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00041.jpg'>
+    <box top='8' left='178' width='58' height='56'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00042.jpg'>
+    <box top='2' left='66' width='125' height='118'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00043.jpg'>
+    <box top='11' left='65' width='119' height='106'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00044.jpg'>
+    <box top='38' left='28' width='67' height='61'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00045.jpg'>
+    <box top='34' left='25' width='83' height='99'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00046.jpg'>
+    <box top='140' left='106' width='62' height='51'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00047.jpg'>
+    <box top='41' left='104' width='56' height='59'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00048.jpg'>
+    <box top='30' left='110' width='129' height='116'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00049.jpg'>
+    <box top='24' left='85' width='150' height='121'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00050.jpg'>
+    <box top='38' left='35' width='100' height='117'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00051.jpg'>
+    <box top='50' left='196' width='43' height='73'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00052.jpg'>
+    <box top='37' left='16' width='142' height='105'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00054.jpg'>
+    <box top='66' left='141' width='22' height='30'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00055.jpg'>
+    <box top='25' left='96' width='135' height='121'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00056.jpg'>
+    <box top='46' left='7' width='55' height='48'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00057.jpg'>
+    <box top='41' left='123' width='21' height='18'/>
+    <box top='31' left='50' width='16' height='18'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00058.jpg'>
+    <box top='125' left='77' width='59' height='73'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00059.jpg'>
+    <box top='19' left='107' width='18' height='26'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00060.jpg'>
+    <box top='60' left='52' width='47' height='48'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00061.jpg'>
+    <box top='16' left='101' width='64' height='57'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00062.jpg'>
+    <box top='21' left='78' width='116' height='115'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00063.jpg'>
+    <box top='44' left='110' width='103' height='91'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00065.jpg'>
+    <box top='129' left='52' width='127' height='131'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00066.jpg'>
+    <box top='99' left='55' width='83' height='163'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00067.jpg'>
+    <box top='32' left='113' width='125' height='120'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00068.jpg'>
+    <box top='20' left='70' width='97' height='96'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00069.jpg'>
+    <box top='125' left='64' width='58' height='90'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00070.jpg'>
+    <box top='15' left='72' width='92' height='87'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00071.jpg'>
+    <box top='115' left='21' width='153' height='150'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00072.jpg'>
+    <box top='89' left='17' width='161' height='155'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00073.jpg'>
+    <box top='96' left='4' width='169' height='161'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00074.jpg'>
+    <box top='54' left='45' width='32' height='30'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00075.jpg'>
+    <box top='120' left='205' width='15' height='22'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00076.jpg'>
+    <box top='77' left='64' width='76' height='90'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00077.jpg'>
+    <box top='28' left='96' width='76' height='91'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00078.jpg'>
+    <box top='63' left='200' width='35' height='39'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00079.jpg'>
+    <box top='4' left='58' width='65' height='72'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00080.jpg'>
+    <box top='23' left='56' width='76' height='82'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00081.jpg'>
+    <box top='3' left='34' width='133' height='136'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00082.jpg'>
+    <box top='42' left='116' width='43' height='40'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00083.jpg'>
+    <box top='6' left='84' width='80' height='86'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00084.jpg'>
+    <box top='5' left='5' width='31' height='33'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00085.jpg'>
+    <box top='22' left='94' width='60' height='74'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00086.jpg'>
+    <box top='61' left='109' width='56' height='60'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00087.jpg'>
+    <box top='19' left='242' width='24' height='22'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00088.jpg'>
+    <box top='28' left='58' width='60' height='57'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00089.jpg'>
+    <box top='8' left='150' width='107' height='145'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00090.jpg'>
+    <box top='30' left='58' width='69' height='66'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00091.jpg'>
+    <box top='19' left='24' width='77' height='72'/>
+    <box top='22' left='129' width='70' height='73'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00092.jpg'>
+    <box top='107' left='19' width='152' height='156'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00093.jpg'>
+    <box top='52' left='222' width='22' height='21'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00095.jpg'>
+    <box top='68' left='46' width='18' height='21'/>
+    <box top='73' left='175' width='17' height='22'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00096.jpg'>
+    <box top='1' left='26' width='138' height='127'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00097.jpg'>
+    <box top='12' left='45' width='50' height='47'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00098.jpg'>
+    <box top='55' left='199' width='38' height='37'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00099.jpg'>
+    <box top='59' left='49' width='55' height='67'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00100.jpg'>
+    <box top='81' left='185' width='22' height='23'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00101.jpg'>
+    <box top='27' left='127' width='59' height='66'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00102.jpg'>
+    <box top='93' left='94' width='42' height='52'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00103.jpg'>
+    <box top='67' left='94' width='37' height='43'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00104.jpg'>
+    <box top='3' left='39' width='96' height='136'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00105.jpg'>
+    <box top='57' left='169' width='37' height='32'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00106.jpg'>
+    <box top='27' left='10' width='66' height='62'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00107.jpg'>
+    <box top='6' left='2' width='35' height='33'/>
+  </image>
+  <image file='/home/anthony/Documents/Programming/Python/Computer-Vision/projects/HOG-obeject-detector-dlib/images/stop-sign/stopsign_00108.jpg'>
+    <box top='18' left='13' width='148' height='140'/>
+  </image>
+</images>
+</dataset>
