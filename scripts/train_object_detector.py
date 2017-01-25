@@ -1,3 +1,10 @@
+import os
+import sys
+import glob
+
+import dlib
+from skimage import io
+
 testPath = '../test-images/'
 trainPath = '../images/stopsign/'
 trainingXMLPath = '../data/training.xml'
@@ -38,12 +45,6 @@ detectorModelPath = '../models/detector.svm'
 #       pip install scikit-image
 #   Or downloaded from http://scikit-image.org/download.html. 
 
-import os
-import sys
-import glob
-
-import dlib
-from skimage import io
 
 
 # In this example we are going to train a face detector based on the small
@@ -70,7 +71,11 @@ options = dlib.simple_object_detector_training_options()
 # Since faces are left/right symmetric we can tell the trainer to train a
 # symmetric detector.  This helps it get the most value out of the training
 # data.
-options.add_left_right_image_flips = True
+
+
+#options.add_left_right_image_flips = True
+
+
 # The trainer is a kind of support vector machine and therefore has the usual
 # SVM C parameter.  In general, a bigger C encourages it to fit the training
 # data better but might lead to overfitting.  You must find the best C value
@@ -82,13 +87,8 @@ options.C = 5
 options.num_threads = 4
 options.be_verbose = True
 
-
-#training_xml_path = os.path.join(trainingXMLPath)
-#testing_xml_path = os.path.join(testingXMLPath)
-
-
-training_xml_path = trainingXMLPath
-testing_xml_path = testingXMLPath
+#training_xml_path = trainingXMLPath
+#testing_xml_path = testingXMLPath
 
 # This function does the actual training.  It will save the final detector to
 # detector.svm.  The input is an XML file that lists the images in the training
@@ -105,15 +105,21 @@ dlib.train_simple_object_detector(trainingXMLPath, detectorModelPath, options)
 # Now that we have a face detector we can test it.  The first statement tests
 # it on the training data.  It will print(the precision, recall, and then)
 # average precision.
+
+
 print("")  # Print blank line to create gap from previous output
 print("Training accuracy: {}".format(
-    dlib.test_simple_object_detector(trainingXMLPath, "detector.svm")))
+    dlib.test_simple_object_detector(trainingXMLPath, detectorModelPath)))
+
+
 # However, to get an idea if it really worked without overfitting we need to
 # run it on images it wasn't trained on.  The next line does this.  Happily, we
 # see that the object detector works perfectly on the testing images.
-print("Testing accuracy: {}".format(
-    dlib.test_simple_object_detector(testingXMLPath, "detector.svm")))
 
+'''
+print("Testing accuracy: {}".format(
+    dlib.test_simple_object_detector(testingXMLPath, detectorModelPath)))
+'''
 
 
 

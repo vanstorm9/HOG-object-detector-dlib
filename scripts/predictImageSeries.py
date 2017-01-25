@@ -1,3 +1,11 @@
+import os
+import sys
+import glob
+
+import dlib
+from skimage import io
+
+
 testPath = '../test-images/'
 detectorModelPath = '../models/detector.svm'
 
@@ -68,5 +76,8 @@ dlib.hit_enter_to_continue()
 # test_simple_object_detector().  If you have already loaded your training
 # images and bounding boxes for the objects then you can call it as shown
 # below.
+
+'''
 print("\nTraining accuracy: {}".format(
     dlib.test_simple_object_detector(images, boxes, detector2)))
+'''
